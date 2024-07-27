@@ -1,7 +1,7 @@
 
 # 🎬 Movie Recommendation Engine 🍿
 
-This is a movie recommendation engine project developed by [Prateek](https://github.com/prateekmlg-1907).
+This is a movie recommendation engine project developed by [Royden](https://github.com/Royden-147).
 
 
 ## Overview 🌟
@@ -30,7 +30,7 @@ The Movie Recommendation Engine is a system designed to provide personalized mov
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/prateekmlg-1907/Recommendation_Engine.git
+   git clone https://github.com/Royden-147/MovieRecommendation.git
    ```
 
 2. Install dependencies:
@@ -45,7 +45,7 @@ The Movie Recommendation Engine is a system designed to provide personalized mov
    python app.py
    ```
 
-4. Access the application in your web browser at `http://localhost:5000`.
+4. Access the application in your web browser at `http://localhost:5001`.
 
 ## Usage 📝
 
